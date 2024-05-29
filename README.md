@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NgolleLeslie
-- 👀 I’m interested in ...cyber security 
-- 🌱 I’m currently learning ... Network and security 
-- 💞️ I’m looking to collaborate on ... cyber security jobs 
+- 👀 I’m interested in ...computer software engineering
+- 🌱 I’m currently learning ... computer software
+- 💞️ I’m looking to collaborate on ... computer software jobs 
 - 📫 How to reach me ...650993745
 
 <!---
